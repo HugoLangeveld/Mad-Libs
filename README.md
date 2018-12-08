@@ -5,5 +5,5 @@ These words can be filled in, differs for each story, where after the complete s
 Belew are three screenshots shown of the app.
 
 ![alt text](https://github.com/HugoLangeveld/Mad-Libs/blob/master/Schermafbeelding%202018-12-08%20om%2022.39.05.png)
-![alt text]()
+![alt text](https://github.com/HugoLangeveld/Mad-Libs/blob/master/Schermafbeelding%202018-12-08%20om%2022.39.39.png)
 ![alt text]()
